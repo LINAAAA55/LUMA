@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Crescent Moon -->
+    <path
+        android:fillColor="#F2E9D8"
+        android:pathData="M54,20 A28,28 0,1,1 30,78 A34,34 0,1,0 54,20 Z" />
+
+    <!-- Sleeping Cat Body -->
+    <path
+        android:fillColor="#101426"
+        android:pathData="M40,60 Q54,48 68,54 Q78,70 65,80 Q50,86 40,60 Z" />
+
+    <!-- Sleeping Cat Head -->
+    <path
+        android:fillColor="#101426"
+        android:pathData="M42,54 A12,12 0,1,1 38,45 Z" />
+
+    <!-- Sparkle Star 1 -->
+    <path
+        android:fillColor="#A99BFF"
+        android:pathData="M80,30 L82,36 L88,38 L82,40 L80,46 L78,40 L72,38 L78,36 Z" />
+
+    <!-- Sparkle Star 2 -->
+    <path
+        android:fillColor="#8DC9E8"
+        android:pathData="M28,70 L29.5,74 L33.5,75.5 L29.5,77 L28,81 L26.5,77 L22.5,75.5 L26.5,74 Z" />
+
+    <!-- Sparkle Star 3 -->
+    <path
+        android:fillColor="#F2E9D8"
+        android:pathData="M75,75 L76,78 L79,79 L76,80 L75,83 L74,80 L71,79 L74,78 Z" />
+</vector>
